@@ -7,8 +7,8 @@ You can use all available resources and libs to achive the task. There are no an
 
 In other words, just provide means to transform this:
 
-![Sprite](img/examples/trees-sprite.png)
+![Sprite](examples/trees-sprite.png)
 
 into something like this:
 
-![Forest #1](img/examples/example-forest-1.png)
+![Forest #1](examples/example-forest-1.png)
